@@ -18,4 +18,5 @@
 !*.md
 # everything that is a txt
 !*.txt
+!Results.zip
 # Add anything that you think should be included but it's not
