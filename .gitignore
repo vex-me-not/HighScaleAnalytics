@@ -19,4 +19,5 @@
 # everything that is a txt
 !*.txt
 !Results.zip
+!runtimes.zip
 # Add anything that you think should be included but it's not
