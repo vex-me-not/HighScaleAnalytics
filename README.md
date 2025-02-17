@@ -9,7 +9,7 @@ The "test_without_labels.csv" and "train.csv" files must be in the same file as 
 ## Group Members
 
 <li>
-  Alliu Konstadina
+  Alliou Konstantina
 </li>
 <li>
   Charisis Nikos
